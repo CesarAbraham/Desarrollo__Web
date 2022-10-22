@@ -1,0 +1,15 @@
+/*
+    Autor: César Abraham López Aguilar;
+    Fecha: 21/10/2022 
+*/
+body{
+    background-color: lightcyan;
+
+}
+h1{
+    color:rgb(220, 46, 46);
+}
+
+#tab{
+    border: 1px solid salmon;
+}
