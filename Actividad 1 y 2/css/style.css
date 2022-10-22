@@ -1,0 +1,28 @@
+/*
+    Autor: César Abraham López Aguilar.
+    Descripción: Hoja de estilos para hello.php  y reloj.php
+    Fecha: 30 de Septiembre del 2022.
+*/
+body{
+    background-color: rgb(200, 170, 170);
+}
+
+h1{
+    font-size: 50px;
+
+    color: royalblue;
+    text-align: center;
+
+}
+
+p{
+
+    font-size: 50px;
+    
+    color: brown;
+    text-align: center;
+    border: 1px solid salmon;
+    border-radius: 50px;
+
+    background-color: rgb(184, 204, 246);
+}
