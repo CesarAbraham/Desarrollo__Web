@@ -1,0 +1,31 @@
+/*  
+    Descripción: Hoja de estilo de "greetingForm.html" y "tabla.html". 
+    Autor:César Abraham López Aguilar.
+    Fecha 12/10/2022.
+*/
+body{
+    background-color: rosybrown;
+}
+h1{
+    color: rgb(44, 93, 238);
+    text-align: center;
+    padding-bottom: 50px;
+    border-bottom: 1px solid grey;
+}
+.form{
+    text-align: center;
+}
+.form label{
+    
+    font-size: 25px;
+}
+.form input{
+    padding: 10px;
+    background-color:lightblue;
+   
+}
+form .enviar{
+    cursor: pointer;
+    background-color: lightcoral;
+
+}
